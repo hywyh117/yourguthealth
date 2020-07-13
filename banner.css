@@ -49,6 +49,7 @@ section {
 }
 
 .items-title {
+  border-width: 5px;
   flex: 0 0 9rem;
   display: flex;
   align-items: center;
